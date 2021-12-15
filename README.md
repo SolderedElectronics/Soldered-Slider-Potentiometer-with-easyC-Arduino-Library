@@ -5,7 +5,7 @@
 
 | ![Product name](https://upload.wikimedia.org/wikipedia/commons/8/8f/Example_image.svg) |
 | :---------------------------------------------------------------------------------------------: |
-| [NAZIV PROIZVODA](https://www.solde.red/333131)                                                            |
+| [Soldered Slider Potentiometer with EasyC](https://www.solde.red/333131)                                                            |
 
 Board with Slider potentiometer compliant to [easyC ecosystem](https://www.soldered.com/easyC). 
 
