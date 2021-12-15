@@ -18,19 +18,16 @@ class sliderPot : public EASYC_SOLDERED_LIBS::EasyC
 
 {
 
-public:
-
+  public:
     uint16_t getValue(void);
     uint16_t minValue(void);
     uint16_t maxValue(void);
     uint8_t getPercentage(void);
 
-protected:
-
+  protected:
     void initializeNative(){};
-    
-private:
 
+  private:
     int pin;
     uint16_t value;
     char raw[2];
