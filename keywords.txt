@@ -1,17 +1,22 @@
 ##################################################
-# Syntax Coloring Map For Obstacle-Sensor-SOLDERED
+# Syntax Coloring Map For Soldered-Slider-Potentiometer-EasyC-Arduino -Library
 ##################################################
 
 ##################################################
-# Datatypes (KEYWORD1)
+# Datatypes 		(KEYWORD1)
 ##################################################
-
+sliderPot		KEYWORD1
 ##################################################
 # Methods and Functions (KEYWORD2)
 ##################################################
 
-begin	KEYWORD2
+begin	    		KEYWORD2
+getValue		KEYWORD2
+getPercentage		KEYWORD2
 
 ##################################################
 # Constants (LITERAL1)
 ##################################################
+
+minValue		LITERAL1
+maxValue		LITERAL1
