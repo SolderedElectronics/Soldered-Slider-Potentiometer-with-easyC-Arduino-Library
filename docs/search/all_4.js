@@ -1,5 +1,5 @@
 var searchData=
 [
-  ['generic_2deasyc_2dsoldered_2ecpp_0',['Generic-easyC-SOLDERED.cpp',['../_generic-easy_c-_s_o_l_d_e_r_e_d_8cpp.html',1,'']]],
-  ['generic_2deasyc_2dsoldered_2eh_1',['Generic-easyC-SOLDERED.h',['../_generic-easy_c-_s_o_l_d_e_r_e_d_8h.html',1,'']]]
+  ['getpercentage_0',['getPercentage',['../classslider_pot.html#ab7263a44eec1b74c1d4c17cf739ef01c',1,'sliderPot']]],
+  ['getvalue_1',['getValue',['../classslider_pot.html#a61e02fe5b366bae51901b37ea6f6652e',1,'sliderPot']]]
 ];

@@ -1,4 +1,5 @@
 var searchData=
 [
-  ['initializenative_0',['initializeNative',['../class_sensor.html#adb537c76173019fddf84b2d89e6c6559',1,'Sensor::initializeNative()'],['../class_e_a_s_y_c___s_o_l_d_e_r_e_d___l_i_b_s_1_1_easy_c.html#ac5e452bb3e1a549f4947bac4b5fe430e',1,'EASYC_SOLDERED_LIBS::EasyC::initializeNative()']]]
+  ['getpercentage_0',['getPercentage',['../classslider_pot.html#ab7263a44eec1b74c1d4c17cf739ef01c',1,'sliderPot']]],
+  ['getvalue_1',['getValue',['../classslider_pot.html#a61e02fe5b366bae51901b37ea6f6652e',1,'sliderPot']]]
 ];
