@@ -12,7 +12,6 @@
 
 #include "Slider-potentiometer-easyC-SOLDERED.h"
 
-#define analogRead 1
 /**
  * @brief       Function for reading value of potentiometer reading
  *

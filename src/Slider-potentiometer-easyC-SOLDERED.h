@@ -14,7 +14,7 @@
 
 #include "libs/Generic-easyC/easyC.h"
 
-class sliderPot : public EASYC_SOLDERED_LIBS::EasyC
+class sliderPot : public SLIDER_POTENTIOMETER_EASYC::EasyC
 
 {
 
