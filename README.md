@@ -21,7 +21,7 @@ You can find hardware design for this board in Slider potentiometer with EasyC h
 
 Access Arduino library documentation [here](https://e-radionicacom.github.io/Soldered-Slider-Potentiometer-with-EasyC-Arduino-Library/).
 
-- Tutorial for using the NAZIV PROIZVODA board
+- Tutorial for using the Slider potentiometer with EasyC board
 - Installing an Arduino library
 
 ### About Soldered
