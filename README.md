@@ -1,7 +1,7 @@
 # Slider Potentiometer with easyc Arduino library
 
 [![Compile Sketches](http://https://github.com/e-radionicacom/Soldered-Slider-Potentiometer-with-EasyC-Arduino-Library/actions/workflows/compile_test.yml/badge.svg?branch=dev)](https://github.com/e-radionicacom/Soldered-Slider-Potentiometer-with-EasyC-Arduino-Library/actions/workflows/compile_test.yml)
-[![Make docs and publish to GitHub Pages](https://github.com/e-radionicacom/Soldered-Generic-Arduino-Library/actions/workflows/make_docs.yml/badge.svg?branch=dev)](https://github.com/e-radionicacom/Soldered-Generic-Arduino-Library/actions/workflows/make_docs.yml)
+[![Make docs and publish to GitHub Pages](https://https://github.com/e-radionicacom/Soldered-Slider-Potentiometer-with-EasyC-Arduino-Library/actions/workflows/make_docs.yml/badge.svg?branch=dev)](https://https://github.com/e-radionicacom/Soldered-Slider-Potentiometer-with-EasyC-Arduino-Library/actions/workflows/make_docs.yml)
 
 | ![Product name](https://upload.wikimedia.org/wikipedia/commons/8/8f/Example_image.svg) |
 | :---------------------------------------------------------------------------------------------: |
