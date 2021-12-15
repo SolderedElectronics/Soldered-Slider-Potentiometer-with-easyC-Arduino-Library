@@ -52,5 +52,5 @@ uint16_t sliderPot::maxValue()
  */
 uint8_t sliderPot::getPercentage()
 {
-    return (int)(100*((float)getValue() / (float)maxValue()));
+    return (int)(100 * ((float)getValue() / (float)maxValue()));
 }
