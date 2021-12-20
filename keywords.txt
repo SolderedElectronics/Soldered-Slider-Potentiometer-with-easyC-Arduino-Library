@@ -10,13 +10,12 @@ sliderPot		KEYWORD1
 # Methods and Functions (KEYWORD2)
 ##################################################
 
-begin	    		KEYWORD2
-getValue		KEYWORD2
+begin	    		  KEYWORD2
+getValue		    KEYWORD2
 getPercentage		KEYWORD2
+minValue		    KEYWORD2
+maxValue		    KEYWORD2
 
 ##################################################
 # Constants (LITERAL1)
 ##################################################
-
-minValue		LITERAL1
-maxValue		LITERAL1
