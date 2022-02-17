@@ -12,7 +12,7 @@
 #ifndef _easyC_
 #define _easyC_
 
-#include "libs/Generic-easyC/easyC.h"
+#include "libs/Generic-easyC/easyC.hpp"
 
 class sliderPot : public SLIDER_POTENTIOMETER_EASYC::EasyC
 
