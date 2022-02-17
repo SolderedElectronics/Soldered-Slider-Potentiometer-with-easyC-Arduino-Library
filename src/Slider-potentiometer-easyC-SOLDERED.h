@@ -14,7 +14,7 @@
 
 #include "libs/Generic-easyC/easyC.hpp"
 
-class sliderPot : public SLIDER_POTENTIOMETER_EASYC::EasyC
+class sliderPot : public EasyC
 
 {
 
