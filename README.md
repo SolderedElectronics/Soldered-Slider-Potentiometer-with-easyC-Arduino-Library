@@ -5,7 +5,8 @@
 
 | ![Product name](https://upload.wikimedia.org/wikipedia/commons/8/8f/Example_image.svg) |
 | :---------------------------------------------------------------------------------------------: |
-| [Slider potentiometer with easyC](https://www.solde.red/333131)                                                            |
+| [Slider potentiometer](https://www.solde.red/333130)                        |
+| [Slider potentiometer with easyC](https://www.solde.red/333131)             |
 
 Board with Slider potentiometer compliant to [easyC ecosystem](https://www.soldered.com/easyC). 
 
@@ -25,7 +26,7 @@ Access Arduino library documentation [here](https://e-radionicacom.github.io/Sol
 - Installing an Arduino library
 
 ### About Soldered
-![Soldered logo](https://raw.githubusercontent.com/e-radionicacom/Soldered-Generic-Arduino-Library/dev/extras/Logo%20horizontal-2.svg)
+![Soldered logo](https://raw.githubusercontent.com/e-radionicacom/Soldered-Slider-Potentiometer-with-easyC-Arduino-Library/dev/extras/Logo%20horizontal-2.svg)
 
 At Soldered, we design and manufacture a wide selection of electronic products to help you turn your ideas into acts and bring you one step closer to your final project. Our products are intented for makers and crafted in-house by our experienced team in Osijek, Croatia. We believe that sharing is a crucial element for improvement and innovation, and we work hard to stay connected with all our makers regardless of their skill or experience level. Therefore, all our products are open-source. Finally, we always have your back. If you face any problem concerning either your shopping experience or your electronics project, our team will help you deal with it, offering efficient customer service and cost-free technical support anytime. Some of those might be useful for you:
 
