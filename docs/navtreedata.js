@@ -25,9 +25,7 @@
 var NAVTREE =
 [
   [ "Slider potentiometer with EasyC", "index.html", [
-    [ "Slider potentiometer breakout with easyC Arduino library", "index.html", [
-      [ "Have fun!", "index.html#autotoc_md8", null ]
-    ] ],
+    [ "Slider potentiometer breakout with easyC Arduino library", "index.html", "index" ],
     [ "Classes", "annotated.html", [
       [ "Class List", "annotated.html", "annotated_dup" ],
       [ "Class Index", "classes.html", null ],
